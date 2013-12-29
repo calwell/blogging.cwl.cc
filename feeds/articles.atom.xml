@@ -5,4 +5,16 @@
 &lt;p&gt;Compared to dynamic web pages, where the web page is rendered by server-side logic and usually require a database, with statically generated websites you feed files written in a markup language like Markdown, reStructuredText, Textile, etc. to a static site generator which spits them out as a static website that is ready for deployment.&lt;/p&gt;
 &lt;p&gt;They are useful when the content doesn't vary based on parameters provided by a user, like in the case of a personal web page where the content is delivered to the user exactly as it was stored.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="wordpress"></category><category term="static"></category><category term="pygments"></category><category term="python"></category><category term="restructured text"></category></entry></feed>
+</summary><category term="wordpress"></category><category term="static"></category><category term="pygments"></category><category term="python"></category><category term="restructured text"></category></entry><entry><title>Test Article Number 2</title><link href="http://calwell.github.io/blogging.cwl.cc/articles/test-article-2/" rel="alternate"></link><updated>2013-12-21T10:58:00+01:00</updated><author><name>Kevin Costain</name></author><id>tag:calwell.github.io/blogging.cwl.cc,2013-12-21:articles/test-article-2/</id><summary type="html">&lt;p&gt;Test&lt;/p&gt;
+&lt;div class="section" id="tite"&gt;
+&lt;h2&gt;Tite&lt;/h2&gt;
+&lt;p&gt;THajdkaldk
+alkdlaskd
+laksd
+ka
+sdka
+lk
+lk
+l&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="wordpress"></category></entry></feed>
